@@ -1,10 +1,3 @@
-title: How to use Google Bard API
-date: 2023-6-1
-tags:
-- Tools
-
-categories: 
-- Tools
 
 ---
 

@@ -1,10 +1,3 @@
-title: lit-llama learning step by step(it tormented me but now you can relax due to this article)
-date: 2023-6-08
-tags:
-- LLM
-
-categories: 
-- LLM
 
 ---
 
