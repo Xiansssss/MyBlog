@@ -1,13 +1,5 @@
-title: Paper notes about Human Reasoning Module
-date: 2023-7-1
-tags:
-- Papers
-
-categories: 
-- Papers
 
 ---
-
 
 
 # Paper: Human Reasoning Module

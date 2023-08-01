@@ -1,11 +1,3 @@
-title: Some remarks on Large Language Models
-date: 2023-6-3
-tags:
-
-- LLM
-
-categories: 
-- LLM
 
 ---
 

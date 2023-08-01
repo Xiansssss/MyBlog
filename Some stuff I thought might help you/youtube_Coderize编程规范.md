@@ -1,15 +1,6 @@
-title: every principled coder should know
-date: 2023-5-25
-tags:
-
-- something you should know
-
-categories: 
-- something you should know
 
 ---
 
-- ```
   Welcome the 7 deadly sins of programming
   Hi there, there are what I would consider to be seven deadly sins when it comes to programming.
   Things that will grind your code quality into dust if you don't heed their lessons.
@@ -181,7 +172,6 @@ categories:
   Good programmers write code that humans can understand.
   Thank you so much for watching.
   It's been many weeks making this video, but it's all worth it to see that smile of yours
-  ```
 
 
 

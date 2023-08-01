@@ -1,12 +1,5 @@
-title: Paper notes about <Are Large Language Models Really Good Logical Reasoners?>
-date: 2023-7-09
-tags:
-- Papers
-categories: 
-- Papers
 
 ---
-
 
 # Paper: Are Large Language Models Really Good Logical Reasoners?
 

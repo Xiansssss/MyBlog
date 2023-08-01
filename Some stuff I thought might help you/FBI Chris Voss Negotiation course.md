@@ -1,15 +1,6 @@
-title: FBI Chris Voss Negotiation course
-date: 2023-5-22
-tags:
-
-- something you should know
-
-categories: 
-- something you should know
 
 ---
 
-```Python
 第一课
 
 谈判：对手是谈判的局势，对面的人只是部分问题有争议，一起解决争议。
@@ -96,8 +87,7 @@ categories:
 
 退后一步进行盘点，检查所有可能的负面影响。谩骂，指责，诽谤，对方会想到的基于当前条件下的所有我的事情。“我不想让你觉得我.....”基于过去的实验或生活得出负面影响。未表达的负面情绪永远不会消失。
 
-```
-
+**转载**
 
 
 

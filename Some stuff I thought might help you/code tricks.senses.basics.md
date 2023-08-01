@@ -1,15 +1,5 @@
-title: code tricks/senses/basics
-date: 2023-6-24
-tags:
-- something you should know
-
-categories: 
-- something you should know
 
 ---
-
-# Everything I think valuable for us 
-
 
 
 ### Definiton clarification :what's the difference between the "Dependencies" and the "Requirements"？
