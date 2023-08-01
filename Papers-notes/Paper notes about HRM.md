@@ -46,16 +46,16 @@ HRM引入了一种简单有效的reasoning pipeline方式解决一些可能存�
 
 * **Schema and inference types**
 这个部分介绍了一下HRM采用了条件推理模式，同时设计了一些推理的规则，比如下方给出条件，假设成立，再看deduction是否make sense.
-![Human Reasoning Module1](Human Reasoning Module1.jpg)
+![Human Reasoning Module1](img/Human Reasoning Module1.jpg)
 
 * **Backward reasoning pipeline**
 推理的pipleline如下，也就是说采用的手段优先级从高到低排列为：自下而上推理>声明性检索>自上而下推理
-![HRM2](HRM2.jpg)
+![HRM2](img/HRM2.jpg)
 
 * **Forward reasoning pipeline** 
 
 这里是讲HRM如何基于用户提供的query去检索相关规则并推理，这里的前向推理管道是基于用户提供的查询语句，从声明性内存中检索与查询语句匹配的前提规则，并根据多个标准选择规则。然后HRM使用这些规则进行推理，从而生成结论或推断.
-![HRM3](HRM3.jpg)
+![HRM3](img/HRM3.jpg)
 
 ## Validation Models
 Validation Models部分介绍了三个不同的实验任务模型，每个模型都用于复制人类行为，并根据人类表现数据进行验证。这些模型的目的是验证HRM的推理能力和有效性。
@@ -69,7 +69,7 @@ Validation Models部分介绍了三个不同的实验任务模型，每个模型
 * **Model of Casual Deduction Task**
 这里假设我们提供一个描述因果关系的句子，例如"If <cause>, then <effect>"。然后HRM会从声明性内存中检索与这个句子匹配的前提规则，并根据多个标准选择规则。接下来HRM使用这些规则进行推理，来生成结论或推断。
 这里就是第一个模型的工作流程，可以看出来是在四种逻辑形式Modus Ponens (MP)，Modus Tollens (MT)，Affirmation of the Consequent (AC)，和Denial of the Antecedent (DA)里做选择然后检索相应的规则。
-![HRM4](HRM4.jpg)
+![HRM4](img/HRM4.jpg)
 
 * **Model of Spatial Relations Task**
 

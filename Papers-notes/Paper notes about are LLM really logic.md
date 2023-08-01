@@ -67,7 +67,7 @@ Fangzhi Xu1,2*, Qika Lin1,2*, Jiawei Han1,3, Tianzhe Zhao1,3, Jun Liu2,3†, Eri
 
 ## Overall Experiments
 
-实验结果的一些展示，先放图：![实验图](paper2.jpg)
+实验结果的一些展示，先放图：![实验图](img/paper2.jpg)
 
 发现LLM在deductive reasoning方面做的比较好，inductive这方面的难度按理来说是最高的，另外few-shot上下文之间的学习并不一定能改善逻辑推理的能力，在其他非推理层面的NLP任务里反而是很有效果的。
 
@@ -76,7 +76,7 @@ Fangzhi Xu1,2*, Qika Lin1,2*, Jiawei Han1,3, Tianzhe Zhao1,3, Jun Liu2,3†, Eri
 
 最终各个模型在四个指标评估结果如下图，图脉络清晰我就不用文字加以赘述
 
-![paper2](paper2_2.jpg)
+![paper2](img/paper2_2.jpg)
 
 
 ## Are LLMs Rigorous Logical Reasoning?
@@ -106,7 +106,7 @@ Fangzhi Xu1,2*, Qika Lin1,2*, Jiawei Han1,3, Tianzhe Zhao1,3, Jun Liu2,3†, Eri
 ## dataset
 
 totally there are 15 datasets: and I'll summarize how are they constructed
-![](paper2_3.jpg)
+![](img/paper2_3.jpg)
 
 * 部分数据集是在已发表研究的基础上构建的。比如LogiQA 1.0和2.0是在LogiQA的基础上新增了样本扩充而来。
 
@@ -116,7 +116,7 @@ totally there are 15 datasets: and I'll summarize how are they constructed
 
 
 下方列举一些数据集的样本： 比如说在logicQA dataset里
-![](paper2_4.jpg)
+![](img/paper2_4.jpg)
 训练集验证集和测试集中每一条数据都是由空行+正确选择+背景+问题+四个选项构成
 可以看出背景描述中都使用了逻辑连接词比如第一条‘so’，旨在训练模型逻辑推理的能力
 下载详细数据可点击：[github/repo](https://raw.githubusercontent.com/lgw863/LogiQA-dataset/master/Train.txt)
