@@ -22,7 +22,7 @@ You can do it later, this article is using **gpt-4** and **text-embedding-ada-00
 
 You can observe the tasks where these models excel in the first column, while the second column contains the specific models required for each task.
 
-![choose your model](./img/how to quickly build your chatgpt_1.jpg)
+![choose your model](./img/chatgpt1.jpg)
 
 As you can see, audio means processing audio data. For this project, I'm using **gpt-4** for responsing and **text-embedding-ada-002** for embedding.
 
@@ -134,7 +134,7 @@ iface.launch()
 ```
 Then you can input your query to test it. This is what you probably see.
 
-![how to quickly build your chatgpt_2.jpg](./img/how to quickly build your chatgpt_2.jpg)
+![how to quickly build your chatgpt_2.jpg](./img/chatgpt2.jpg)
 
 *** Finished *** Happy for you.
 
