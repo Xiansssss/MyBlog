@@ -38,7 +38,7 @@ HRM引入了一种简单有效的reasoning pipeline方式解决一些可能存�
 
 * **Schema and inference types**
 这个部分介绍了一下HRM采用了条件推理模式，同时设计了一些推理的规则，比如下方给出条件，假设成立，再看deduction是否make sense.
-![Human Reasoning Module1](img/Human Reasoning Module1.jpg)
+![Human Reasoning Module1](img/HRM1.jpg)
 
 * **Backward reasoning pipeline**
 推理的pipleline如下，也就是说采用的手段优先级从高到低排列为：自下而上推理>声明性检索>自上而下推理
