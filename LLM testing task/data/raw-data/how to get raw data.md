@@ -1,0 +1,1 @@
+https://github.com/thunlp/CAIL#中国法研杯司法人工智能挑战赛数据说明
